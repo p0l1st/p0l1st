@@ -1,8 +1,8 @@
-- 👋 Hi, I’m p0l1st@ZhuoGuangLab.
+- 👋 Hi, I’m p0l1st
 - 👀 I’m interested in Hacking,Coding,Music
 - 🌱 I’m currently learning Web Security
 - 📫 How to reach me: QQ-MTUwNDE3NjI5Mw==
-- ⚡ Blog:https://blog.p0l1st.top/
+- ⚡ Blog: https://blog.p0l1st.top/
 
 <!---
 p0l1st/p0l1st is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
