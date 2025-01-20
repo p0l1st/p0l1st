@@ -1,7 +1,3 @@
-- 👋 Hi, I’m p0l1st
-- 👀 I’m interested in Hacking,Coding,Music
-- 🌱 I’m currently learning Web Security
-- 📫 How to reach me: QQ-MTUwNDE3NjI5Mw==
 - ⚡ Blog: https://blog.p0l1st.top/
 
 <!---
